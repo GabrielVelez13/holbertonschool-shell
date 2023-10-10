@@ -1,0 +1,14 @@
+total 80
+drwxr-xr-x  13 gabrielvelez  staff  416 Oct 10 15:16 .
+drwxr-xr-x   7 gabrielvelez  staff  224 Oct  4 15:19 ..
+-rwxr--r--   1 gabrielvelez  staff   32 Oct 10 14:03 0-hello_world
+-rwxr--r--   1 gabrielvelez  staff   28 Oct 10 14:07 1-confused_smiley
+-rwxr--r--   1 gabrielvelez  staff   28 Oct 10 14:10 2-hellofile
+-rwxr--r--   1 gabrielvelez  staff   39 Oct 10 14:14 3-twofiles
+-rwxr--r--   1 gabrielvelez  staff   29 Oct 10 14:17 4-lastlines
+-rwxr--r--   1 gabrielvelez  staff   29 Oct 10 14:18 5-firstlines
+-rwxr--r--   1 gabrielvelez  staff   36 Oct 10 14:22 6-third_line
+-rwxr--r--   1 gabrielvelez  staff   93 Oct 10 15:09 7-file
+-rwxr--r--   1 gabrielvelez  staff   59 Oct 10 15:16 8-cwd_state
+-rw-r--r--   1 gabrielvelez  staff   54 Oct 10 13:52 README.md
+-rw-r--r--   1 gabrielvelez  staff    0 Oct 10 15:16 ls_cwd_content

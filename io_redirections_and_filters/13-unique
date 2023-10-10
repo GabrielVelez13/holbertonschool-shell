@@ -1,2 +1,2 @@
 #!/bin/bash
-read| cat < $REPLY |sort|uniq
+sort | uniq
